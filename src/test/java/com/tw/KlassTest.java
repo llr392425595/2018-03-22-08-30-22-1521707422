@@ -4,7 +4,8 @@ import static org.junit.Assert.*;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-import org.junit.Assert;
+import com.tw.Entity.Klass;
+import com.tw.Entity.Student;
 import org.junit.Test;
 
 public class KlassTest {
